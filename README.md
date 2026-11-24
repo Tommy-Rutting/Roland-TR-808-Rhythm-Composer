@@ -4,7 +4,7 @@ I tried to get as close to the original as possible, still tweaking, but sounds 
 Not all functions are active, accent, second pattern, basic variation, pre scale and fill in are not yet made.
 Still have to implement DAW project automatic saving.
 Pattern programming does work like on the original.
-Still in working on it, so quirks are present.
+Work in progress, so quirks are present.
 
 Tommy
 
