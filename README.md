@@ -7,3 +7,6 @@ Pattern programming does work like on the original.
 Still in working on it, so quirks are present.
 
 Tommy
+
+
+<img width="1072" height="654" alt="Roland TR-808 Rhythm Composer" src="https://github.com/user-attachments/assets/8cf22d92-fe2b-4deb-a991-886a4585fb24" />
