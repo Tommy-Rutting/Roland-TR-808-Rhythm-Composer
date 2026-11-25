@@ -1,4 +1,4 @@
-V3, first uploadd version was not correct. Hi my name is Tommy Rutting, i'm a producer, DJ and audio & video engineer next to UNIX/LINUX system administration, and i programmed a Roland TR-808 Rhythm Composer in Pure Data, no AI/Vibe coding, all hand build.
+V3, first upload version was not correct. Hi my name is Tommy Rutting, i'm a producer, DJ and audio & video engineer next to UNIX/LINUX system administration, and i programmed a Roland TR-808 Rhythm Composer in Pure Data, no AI/Vibe coding, all hand build.
 Install Plugdata v0.9.3 or higher https://plugdata.org/download.html and open de pd file.
 Run in presentation mode to keep the faceplate save, when it happens just undo your action and switch to presentation mode. 
 All sounds made with synthesis as much as the original works, no samples.
