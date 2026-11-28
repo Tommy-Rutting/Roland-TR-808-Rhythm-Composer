@@ -1,5 +1,7 @@
-V6, first upload version was not correct. Hi my name is Tommy Rutting, i'm a producer, DJ and audio & video engineer next to UNIX/LINUX system administration, and i programmed a Roland TR-808 Rhythm Composer in Pure Data, no AI/Vibe coding, all hand build. Install Plugdata v0.9.3 or higher https://plugdata.org/download.html and open de pd file. Run in presentation mode to keep the faceplate save, when it happens just undo your action and switch to presentation mode. All sounds made with synthesis as much as the original works, no samples. I tried to get as close to the original as possible, still tweaking, but sounds are pretty close. Not all functions are active, accent, second pattern, basic variation, pre scale and fill in are not yet made. Still have to implement DAW project automatic saving. Pattern programming does work like on the original. Work in progress, so quirks are present.
-
-Tommy
+This is version 9, it sounds very close to the original now, work in progress.
+Changed saving and loading settings with save and load button, no auto saving.
+DAW MIDI version with parameter saving, and missing knob functions for pattern editing is on the list to do.
+To program a pattern put/turn knob on 1st pattern on the pattern write knob, you can also click on 1st label and after that select a kit sound on the instrument knob and enter your pattern on the 16 step sequencer buttons, the first time you enter a step double click the sequencer button.
+Install Plugdata v0.9.3 or higher to run the patch, https://plugdata.org/download.html
 
 <img width="1072" height="654" alt="Roland TR-808 Rhythm Composer" src="https://github.com/user-attachments/assets/8cf22d92-fe2b-4deb-a991-886a4585fb24" />
